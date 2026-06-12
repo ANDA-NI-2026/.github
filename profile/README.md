@@ -34,7 +34,7 @@ To run the materials for this course, it is recommended that you:
 
 For jupyer lab: `pixi run jupyter`. After JupyterLab opens, select the `anda-<day>` kernel.
 
-### 4. Complete the Homework
+### 4. Complete the Homework 
 
 Complete the exercises in the jupyter notebook in `01_homework`.  
 
@@ -42,7 +42,11 @@ Complete the exercises in the jupyter notebook in `01_homework`.
 
 Once it's complete (or, at least, you've made a solid attempt to complete at least 75% of it, even if you got stuck), please prefix your last name to the filename (e.g. Homer Simpson would make "`simpson_anda_day1_homework.ipynb`") and send it to the course dropbox at https://uni-bonn.sciebo.de/s/pLsAYmGW5zLnnHR.
 
-###  6. Come to the Session!
+### 6. Watch the Intro Lecture Video (ANDA only)
+
+Watch the session's lecture to prepare for the high-level scientific topics that will come up that day.
+
+###  7. Come to the Session!
 
 The rest of the day's materials, including exercise, notebooks, datasets, and solutions will appear in this repo during the session.  Just call `git pull` and you'll get the updates.
 
