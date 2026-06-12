@@ -10,3 +10,31 @@
   - **Thursday, June 18th, 2026**: Mechanisms Underlying Cortical Variability Dynamics
   - **Friday, June 19th, 2026**: Spectral Analysis
 
+
+## Before Each Session
+
+### 1. Clone the Session's Git Repository
+
+`git clone <repo_url>`
+
+### 2. Set up your Python Environment
+
+`pixi run install-kernel`
+
+### 3. Open the Repo in VS Code or Jupyter Lab
+
+For jupyer lab: `pixi run jupyter`. After JupyterLab opens, select the `anda-<day>` kernel.
+
+### 4. Complete the Homework
+
+Complete the exercises in the jupyter notebook in `01_homework`.  
+
+### 5. Submit the Homework
+
+Once it's complete (or, at least, you've made a solid attempt to complete at least 75% of it, even if you got stuck), please prefix your last name to the filename (e.g. Homer Simpson would make "`simpson_anda_day1_homework.ipynb`") and send it to the course dropbox at https://uni-bonn.sciebo.de/s/pLsAYmGW5zLnnHR.
+
+###  6. Come to the Session!
+
+The rest of the day's materials, including exercise, notebooks, datasets, and solutions will appear in this repo during the session.  Just call `git pull` and you'll get the updates.
+
+See you there!
