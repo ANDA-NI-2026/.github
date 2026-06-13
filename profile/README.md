@@ -23,8 +23,6 @@ To run the materials for this course, it is recommended that you:
   - For Jupyter Lab: `pixi run install-kernel` then `pixi run jupyter` gets Jupyter Lab working quickly,
   - For Google Collab: A Collab link is provied in every notebook 
 
-### Pick and 
-
 ## Before Each Session
 
 ### 1. Clone the Session's Git Repository
