@@ -2,11 +2,11 @@
 
 ## ANDA (Advanced Neural Data Analysis) Course Schedule: June 15th-19th, 2026
 
-  - **Monday, June 15th, 2026**: [Measuring Neural Interactions in the Brain: Spike Correlations](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations.git)
-  - **Tuesday, June 16th, 2026**: State-space Analysis of Neural Interactions
-  - **Wednesday, June 17th, 2026**: Dimensionality Reduction of Large-Scale Neural Recordings
-  - **Thursday, June 18th, 2026**: Mechanisms Underlying Cortical Variability Dynamics
-  - **Friday, June 19th, 2026**: Spectral Analysis
+  - **Monday, June 15th, 2026**: [(Sonja Grün: Measuring Neural Interactions in the Brain](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations.git)
+  - **Tuesday, June 16th, 2026**: Hideaki Shimazaki: State-space Analysis of Neural Interactions
+  - **Wednesday, June 17th, 2026**: Byron Yu: Dimensionality Reduction of Large-Scale Neural Recordings
+  - **Thursday, June 18th, 2026**: Martin Nawrot: Mechanisms Underlying Cortical Variability Dynamics
+  - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
 
 
 ## Before the Course
@@ -37,11 +37,15 @@ To run the materials for this course, it is recommended that you:
 
 For jupyer lab: `pixi run jupyter`. After JupyterLab opens, select the `anda-<day>` kernel.
 
-### 4. Complete the Homework 
+### 4. Watch the Video Lectures
+
+Go to http://anda-lectures.andani.info/ and watch the lectures associated with that day's lecturer.
+
+### 5. Complete the Homework 
 
 Complete the exercises in the jupyter notebook in `01_homework`.  
 
-### 5. Submit the Homework
+### 6. Submit the Homework
 
 Once it's complete (or, at least, you've made a solid attempt to complete at least 75% of it, even if you got stuck), please prefix your last name to the filename (e.g. Homer Simpson would make "`simpson_anda_day1_homework.ipynb`") and send it to the course dropbox at https://uni-bonn.sciebo.de/s/pLsAYmGW5zLnnHR.
 
