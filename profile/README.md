@@ -1,6 +1,6 @@
 # ANDA-NI 2026
 
-## ANDA Course Schedule
+## ANDA (Advanced Neural Data Analysis) Course Schedule: June 15th-19th, 2026
 
   - **Monday, June 15th, 2026**: [Measuring Neural Interactions in the Brain: Spike Correlations](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations.git)
   - **Tuesday, June 16th, 2026**: State-space Analysis of Neural Interactions
