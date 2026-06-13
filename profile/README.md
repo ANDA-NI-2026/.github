@@ -14,11 +14,16 @@
 ### Install Software Dependencies
 
 To run the materials for this course, it is recommended that you:
-- Install [VSCode](https://code.visualstudio.com/download) as your editor
 - Install [Pixi](https://pixi.sh/dev/installation/) or alternatively [Conda](https://conda-forge.org/download/) to create virtual environments
 - Install [Git](https://git-scm.com/install/windows) for version control
 - Create a [GitHub account](https://github.com/signup)
+- Install [VSCode](https://code.visualstudio.com/download) as a code editor
 
+*Note*: VSCode not working for you?  No problem!  All work is done inside Jupyter Notebooks in this course, so if you'd like to use a different editor, please feel free.  
+  - For Jupyter Lab: `pixi run install-kernel` then `pixi run jupyter` gets Jupyter Lab working quickly,
+  - For Google Collab: A Collab link is provied in every notebook 
+
+### Pick and 
 
 ## Before Each Session
 
