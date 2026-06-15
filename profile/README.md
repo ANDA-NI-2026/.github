@@ -5,8 +5,12 @@
   - **Monday, June 15th, 2026**: [Sonja Grün: Measuring Neural Interactions in the Brain](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations.git)
     - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations/blob/main/01_homework/01_hw_stationary_spiketrains.ipynb)
     - Video 1: [Sonja Grün - Part 1 - Measuring and Investigating Neural Interactions in the Brain - Correlations](https://vimeo.com/showcase/12277813?video=990487416)
-    - Video 2: [Sonja Grün - Part 2 - Measuring and Investigating Neural Interactions in the Brain - Higher Order Interactions](https://vimeo.com/showcase/12277813?video=1023322200)    
-  - **Tuesday, June 16th, 2026**: Hideaki Shimazaki: State-space Analysis of Neural Interactions
+    - Video 2: [Sonja Grün - Part 2 - Measuring and Investigating Neural Interactions in the Brain - Higher Order Interactions](https://vimeo.com/showcase/12277813?video=1023322200)
+      
+  - **Tuesday, June 16th, 2026**: [Hideaki Shimazaki: State-space Analysis of Neural Interactions](https://github.com/ANDA-NI-2026/ANDA-Day2-State-Space-Analysis)
+    - Homework Notebook: https://github.com/ANDA-NI-2026/ANDA-Day2-State-Space-Analysis
+    - Video: [Hideaki Shimazaki - State Space Analysis for Neural Interactions](https://vimeo.com/showcase/12277813?video=1200750829)
+      
   - **Wednesday, June 17th, 2026**: Byron Yu: Dimensionality Reduction of Large-Scale Neural Recordings
   - **Thursday, June 18th, 2026**: Martin Nawrot: Mechanisms Underlying Cortical Variability Dynamics
   - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
