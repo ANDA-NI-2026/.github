@@ -8,7 +8,7 @@
     - Video 2: [Sonja Grün - Part 2 - Measuring and Investigating Neural Interactions in the Brain - Higher Order Interactions](https://vimeo.com/showcase/12277813?video=1023322200)
       
   - **Tuesday, June 16th, 2026**: [Hideaki Shimazaki: State-space Analysis of Neural Interactions](https://github.com/ANDA-NI-2026/ANDA-Day2-State-Space-Analysis)
-    - Homework Notebook: https://github.com/ANDA-NI-2026/ANDA-Day2-State-Space-Analysis
+    - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day2-State-Space-Analysis/blob/main/01_homework_binary_population_codes/01_hw_binary_spike_trains.ipynb)
     - Video: [Hideaki Shimazaki - State Space Analysis for Neural Interactions](https://vimeo.com/showcase/12277813?video=1200750829)
       
   - **Wednesday, June 17th, 2026**: Byron Yu: Dimensionality Reduction of Large-Scale Neural Recordings
