@@ -13,7 +13,10 @@
     - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day2-State-Space-Analysis/blob/main/01_homework_binary_population_codes/01_hw_binary_spike_trains.ipynb)
     - Video: [Hideaki Shimazaki - State Space Analysis for Neural Interactions](https://vimeo.com/showcase/12277813?video=1200750829)
       
-  - **Wednesday, June 17th, 2026**: Byron Yu: Dimensionality Reduction of Large-Scale Neural Recordings
+  - **Wednesday, June 17th, 2026**: [Byron Yu: Dimensionality Reduction of Large-Scale Neural Recordings](https://github.com/ANDA-NI-2026/ANDA-Day3-Dimensionality-Reduction)
+    - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day3-Dimensionality-Reduction/blob/main/01_homework_pca_for_spike_sorting/01_exercises.ipynb)
+    - video: [Byron Yu - Dimensionality Reduction of Large-Scale Neuronal Recordings](https://vimeo.com/showcase/12277813?video=1003925215)
+      
   - **Thursday, June 18th, 2026**: Martin Nawrot: Mechanisms Underlying Cortical Variability Dynamics
   - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
 
