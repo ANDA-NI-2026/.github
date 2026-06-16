@@ -1,6 +1,8 @@
 # ANDA-NI 2026
 
-## ANDA (Advanced Neural Data Analysis) Course Schedule: June 15th-19th, 2026
+## ANDA (Advanced Neural Data Analysis) 
+
+### Topic Schedule: June 15th-19th, 2026
 
   - **Monday, June 15th, 2026**: [Sonja Grün: Measuring Neural Interactions in the Brain](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations.git)
     - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations/blob/main/01_homework/01_hw_stationary_spiketrains.ipynb)
@@ -14,6 +16,15 @@
   - **Wednesday, June 17th, 2026**: Byron Yu: Dimensionality Reduction of Large-Scale Neural Recordings
   - **Thursday, June 18th, 2026**: Martin Nawrot: Mechanisms Underlying Cortical Variability Dynamics
   - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
+
+
+## Daily Plan
+
+  - (45 mins): **Homework Review (Notebook 1), Scientific Lecture, and Warm-Up Discussion**
+  - (80 mins): **Learning Round 1: (Notebook 2)**
+  - (15 mins): *Break*
+  - (70 mins): **Learning Round 2: (Notebook 2 or Notebook 3)**
+  - (Optional: Max 20 mins): *Post-Session Hang-out**
 
 
 ## Before the Course
