@@ -69,6 +69,8 @@ To run the materials for this course, it is recommended that you:
 
 ### 3. Open the Repo in VS Code or Jupyter Lab
 
+> Note: Jupyter Lab only fits comfortably to the ANDA Course; for NI, we will be using the IDE-focused Visual Studio Code much more.
+
 For jupyer lab: `pixi run jupyter`. After JupyterLab opens, select the `anda-<day>` kernel.
 
 ### 4. Watch the Video Lectures
