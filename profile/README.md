@@ -27,6 +27,7 @@
 ### NI (Neuroinformatics) Topic Schedule: June 15th-19th, 2026
 
   - **Monday, June 22nd, 2026**: Repositories and Data Repositories with Git and Datalad
+    - Homework: [Link](https://github.com/ANDA-NI-2026/NI-Day1-Code-and-Data-Repositories/blob/main/01_hw_github_and_osf/01_hw_exercises.ipynb)
   - **Tuesday, June 23rd, 2026**: Working with Ephys Data Models with Neo and Nix
   - **Wednesday, June 24th, 2026**: Data Formats and Storage for Electrophysiology with HDF5 and NWB
   - **Thursday, June 25th, 2026**: Multi-Script Worfklows & Repository Organization with Snakemake
