@@ -24,7 +24,7 @@
    
   - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
 
-### NI (Neuroincformatics) Topic Schedule: June 15th-19th, 2026
+### NI (Neuroinformatics) Topic Schedule: June 15th-19th, 2026
 
   - **Monday, June 22nd, 2026**: Repositories and Data Repositories with Git and Datalad
   - **Tuesday, June 23rd, 2026**: Working with Ephys Data Models with Neo and Nix
