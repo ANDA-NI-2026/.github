@@ -24,7 +24,7 @@
    
   - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
 
-### NI (Neuroinformatics) Topic Schedule: June 15th-19th, 2026
+### NI (Neuroinformatics) Topic Schedule: June 22nd-15th, 2026
 
   - **Monday, June 22nd, 2026**: Repositories and Data Repositories with Git and Datalad
     - Homework: [Link](https://github.com/ANDA-NI-2026/NI-Day1-Code-and-Data-Repositories/blob/main/01_hw_github_and_osf/01_hw_exercises.ipynb)
@@ -32,7 +32,7 @@
   - **Wednesday, June 24th, 2026**: Data Formats and Storage for Electrophysiology with HDF5 and NWB
   - **Thursday, June 25th, 2026**: Multi-Script Worfklows & Repository Organization with Snakemake
 
-### ANDA-NI Retreat Dataset Preparation Day: June 20th, 2026
+### ANDA-NI Retreat Dataset Preparation Day: June 26th, 2026
   - **Friday, June 26th, 2026**: Dataset Presentations and Preparation
 
 ## Daily Plan
