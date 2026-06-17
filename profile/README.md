@@ -15,9 +15,13 @@
       
   - **Wednesday, June 17th, 2026**: [Byron Yu: Dimensionality Reduction of Large-Scale Neural Recordings](https://github.com/ANDA-NI-2026/ANDA-Day3-Dimensionality-Reduction)
     - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day3-Dimensionality-Reduction/blob/main/01_homework_pca_for_spike_sorting/01_exercises.ipynb)
-    - video: [Byron Yu - Dimensionality Reduction of Large-Scale Neuronal Recordings](https://vimeo.com/showcase/12277813?video=1003925215)
+    - Video: [Byron Yu - Dimensionality Reduction of Large-Scale Neuronal Recordings](https://vimeo.com/showcase/12277813?video=1003925215)
       
   - **Thursday, June 18th, 2026**: Martin Nawrot: Mechanisms Underlying Cortical Variability Dynamics
+    - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day4-Cortical-Variability-Dynamics/blob/main/01_hw_simulating_poisson_neurons/01_hw_exercises.ipynb)
+    - Video 1: [Martin Nawrot - Part 1 - Empirical Analysis of Variability](https://vimeo.com/showcase/12277813?video=1019684839)
+    - Video 2: [Martin Nawrot - Part 2 - Explaining Cortical Variability Dynamics](https://vimeo.com/showcase/12277813?video=1019684877)
+   
   - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
 
 
