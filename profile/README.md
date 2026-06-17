@@ -1,8 +1,8 @@
 # ANDA-NI 2026
 
-## ANDA (Advanced Neural Data Analysis) 
+## Course Overviews
 
-### Topic Schedule: June 15th-19th, 2026
+### ANDA (Advanced Neural Data Analysis) Topic Schedule: June 15th-19th, 2026
 
   - **Monday, June 15th, 2026**: [Sonja Grün: Measuring Neural Interactions in the Brain](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations.git)
     - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day1-Spike-Train-Correlations/blob/main/01_homework/01_hw_stationary_spiketrains.ipynb)
@@ -23,6 +23,13 @@
     - Video 2: [Martin Nawrot - Part 2 - Explaining Cortical Variability Dynamics](https://vimeo.com/showcase/12277813?video=1019684877)
    
   - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
+
+### NI (Neuroincformatics) Topic Schedule: June 15th-19th, 2026
+
+  - **Monday, June 22nd, 2026**: Repositories and Data Repositories with Git and Datalad
+  - **Tuesday, June 23rd, 2026**: Working with Ephys Data Models with Neo and Nix
+  - **Wednesday, June 24th, 2026**: Data Formats and Storage for Electrophysiology with HDF5 and NWB
+  - **Thursday, June 25th, 2026**: Multi-Script Worfklows & Repository Organization with Snakemake
 
 
 ## Daily Plan
