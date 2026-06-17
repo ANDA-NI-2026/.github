@@ -31,6 +31,8 @@
   - **Wednesday, June 24th, 2026**: Data Formats and Storage for Electrophysiology with HDF5 and NWB
   - **Thursday, June 25th, 2026**: Multi-Script Worfklows & Repository Organization with Snakemake
 
+### ANDA-NI Retreat Dataset Preparation Day: June 20th, 2026
+  - **Friday, June 26th, 2026**: Dataset Presentations and Preparation
 
 ## Daily Plan
 
