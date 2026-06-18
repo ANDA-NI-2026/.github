@@ -22,7 +22,16 @@
     - Video 1: [Martin Nawrot - Part 1 - Empirical Analysis of Variability](https://vimeo.com/showcase/12277813?video=1019684839)
     - Video 2: [Martin Nawrot - Part 2 - Explaining Cortical Variability Dynamics](https://vimeo.com/showcase/12277813?video=1019684877)
    
-  - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis
+  - **Friday, June 19th, 2026**: Udo Ernst: Spectral Analysis of Neural Signals
+    - Homework Notebook: [Link](https://github.com/ANDA-NI-2026/ANDA-Day5-Spectral-Analysis/blob/main/01_homework/01_exercises.ipynb)
+    - Videos (Many available this time, but shorter, please pick at least 3):
+      - Video 1: Udo Ernst - [Spectral Analysis of Neural Signals - Introduction](https://vimeo.com/showcase/12277813?video=1017802168)
+      - Video 2: Udo Ernst - [Fourier Facts](https://vimeo.com/showcase/12277813?video=1017802162)
+      - Video 3: Udo Ernst - [Multitapering](https://vimeo.com/showcase/12277813?video=1017802168)
+      - Video 4: Udo Ernst - [Time-Resolved Spectral Analysis](https://vimeo.com/showcase/12277813?video=1017802187)
+      - Video 5: Udo Ernst - [Phase Extraction](https://vimeo.com/showcase/12277813?video=1017802202)
+      - Video 6: Udo Ernst - [Spectral Coherence](https://vimeo.com/showcase/12277813?video=1017802218)
+      - Video 7: Udo Ernst - [Selective Processing In The Visual System](https://vimeo.com/showcase/12277813?video=1017802237)
 
 ### NI (Neuroinformatics) Topic Schedule: June 22nd-25th, 2026
 
