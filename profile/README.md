@@ -45,6 +45,7 @@
     - Homework: [Link](https://github.com/ANDA-NI-2026/NI-Day3-Data-Formats/blob/main/01_homework/01_exercises.ipynb)
       
   - **Thursday, June 25th, 2026**: Multi-Script Worfklows & Repository Organization with Snakemake
+    - Homework: [Link](https://github.com/ANDA-NI-2026/NI-Day4-MultiFile-Worfklows-with-Metadata-and-Snakemake/blob/main/01_hw_organizing_metadata/01_hw_exercises.ipynb)
     
 
 ### ANDA-NI Retreat Dataset Preparation Day: June 26th, 2026
